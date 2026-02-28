@@ -168,10 +168,10 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #9fe870 !important;
-  border-color: #9fe870 !important;
-  color: #264d0c !important;
-  box-shadow: none;
+    background-color: #f29601 !important;
+    border-color: #3a341c !important;
+    color: #264d0c !important;
+    box-shadow: none;
 }
 .btn-primary:hover,
 .btn-primary:focus,
